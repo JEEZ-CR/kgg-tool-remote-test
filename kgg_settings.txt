@@ -1,0 +1,10 @@
+# KGG Remote settings (test)
+status.text.vi=Thông báo từ GitHub (VI)
+status.text.en=Notice from GitHub (EN)
+
+status2.text.vi=Dòng 2 từ GitHub
+status2.text.en=Line 2 from GitHub
+
+support.link=https://google.com
+shop.link=https://facebook.com
+update.link=https://github.com

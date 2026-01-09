@@ -1,4 +1,3 @@
-# KGG Remote settings (test)
 status.text.vi=Thông báo từ GitHub (VI)
 status.text.en=Notice from GitHub (EN)
 

@@ -1,8 +1,8 @@
-status.text.vi=Thông báo từ GitHub (VI)
+status.text.vi=Thông báo 01 từ GitHub (VI)
 status.text.en=Notice from GitHub (EN)
 
-status2.text.vi=Dòng 2 từ GitHub
-status2.text.en=Line 2 from GitHub
+status2.text.vi=Thông báo 02 từ GitHub (Bên dưới)
+status2.text.en=Line 02 from GitHub (Bot)
 
 support.link=https://google.com
 shop.link=https://facebook.com
